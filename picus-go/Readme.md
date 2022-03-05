@@ -1,0 +1,1 @@
+Not = Interface ve struct konularında eksiklerim vardı bu yüzden projeyi tamamlayamadım. Sadece Search List ve Delete üzerine yoğunlaştım.
